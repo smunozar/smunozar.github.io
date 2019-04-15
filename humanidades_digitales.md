@@ -10,7 +10,7 @@ He participado en diferentes iniciativas y proyectos de humanidades digitales e 
 ## Neogranadina
 La Fundación Histórica Neogranadina desarrolla proyectos de investigación y divulgación relacionados con la historia y las ciencias sociales usando las tecnologías digitales.
 
-Para mayor información, visite: [https://www.neogranadina.org/](https://www.neogranadina.org/)
+Para mayor información, visite: [https://www.neogranadina.org/](https://neogranadina.org/)
 
 <img src="/img/razoncartografia-afiche-150x150.png" style="width: 150px; margin-right: 30px; margin-bottom: 10px;" align="left" />
 ## Razón Cartográfica
